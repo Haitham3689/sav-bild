@@ -140,7 +140,7 @@ function App() {
               />
             </div>
             <div className="mb-3">
-              <label htmlFor="loginPassword" className="form-label">كلمة المرور p</label>
+              <label htmlFor="loginPassword" className="form-label">كلمة المرور ap</label>
               <input
                 type="password"
                 id="loginPassword"
